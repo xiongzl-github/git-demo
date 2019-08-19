@@ -9,6 +9,17 @@ public class Test01 {
         System.out.println("hello world!");
     }
 
+    /**
+     * 添加用户
+     *
+     * @return void
+     * @author xiongzl
+     * @date 2019/8/19 18:21
+     **/
+    public void addUser() {
+        System.out.println("添加User");
+    }
+
 
 
 }
